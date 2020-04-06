@@ -247,7 +247,7 @@ After this:
 
 You will be presented with a page that displays all the wordings for the selected module, grouped by translation domain.
 
-Once saved, translations are stored in the database in the table `ps_translations`.
+Once saved, translations are stored in the database in the table `ps_translation`.
 
 ## Creating translation dictionary files
 
